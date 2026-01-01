@@ -31,21 +31,6 @@ This project evaluates customer behavior and revenue dynamics for a CRM SaaS bus
 
 **Tools:** R, Excel, Jupyter Notebooks
 
-## Repository Structure
-
-hubspot-web-analytics-project/
-├── report/
-│   ├── HubSpot Web Analytics Report.pdf
-│   └── Excel_Customer_Churn_Rate_HubSpot.xlsx
-├── notebooks/
-│   ├── Sentiment Analysis for Hubspot.ipynb
-│   └── HubSpot_Web_Analytics_Project_Forecasting.ipynb
-├── data/
-│   └── HubSpot_Reddit_Reviews.csv
-├── README.md
-└── LICENSE
-
-
 ## Key Findings
 
 - Identified observable churn patterns suggesting customer retention challenges at specific lifecycle stages.
