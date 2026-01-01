@@ -35,15 +35,16 @@ This project evaluates customer behavior and revenue dynamics for a CRM SaaS bus
 
 hubspot-web-analytics-project/
 ├── report/
-│ ├── HubSpot Web Analytics Report.pdf
-│ └── Excel_Customer_Churn_Rate_HubSpot.xlsx
+│   ├── HubSpot Web Analytics Report.pdf
+│   └── Excel_Customer_Churn_Rate_HubSpot.xlsx
 ├── notebooks/
-│ ├── Sentiment Analysis for Hubspot.ipynb
-│ └── HubSpot_Web_Analytics_Project_Forecasting.ipynb
+│   ├── Sentiment Analysis for Hubspot.ipynb
+│   └── HubSpot_Web_Analytics_Project_Forecasting.ipynb
 ├── data/
-│ └── HubSpot_Reddit_Reviews.csv
+│   └── HubSpot_Reddit_Reviews.csv
 ├── README.md
 └── LICENSE
+
 
 ## Key Findings
 
